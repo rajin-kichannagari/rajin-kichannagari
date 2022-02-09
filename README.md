@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajin-kichannagari
 - 👀 I’m interested in programming and technology
-- 🌱 I’m currently learning about web apis and data
+- 🌱 I’m currently learning about binary trees
 - 📫 How to reach me rajin0901@gmail.com
 
 <!---
